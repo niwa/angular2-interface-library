@@ -27,7 +27,7 @@ import {Component} from '@angular/core';
 `
 })
 export class NiwaInterfaceFooterComponent {
-  const { version: appVersion } = require('../../package.json')
+  const { version: appVersion } = require('../../package.json');
 
     constructor() {
     }

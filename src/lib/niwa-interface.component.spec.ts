@@ -19,7 +19,7 @@ describe('URL Service', () => {
 
 
     expect ('c').toEqual('c');
-  }));
+  });
 
 });
 
